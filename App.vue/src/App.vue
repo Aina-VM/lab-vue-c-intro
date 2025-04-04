@@ -27,6 +27,12 @@
   padding: 0px;
   background: white;
   width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  align-self: center;
 }
 body {
   font-family: Arial, sans-serif;
